@@ -1,4 +1,4 @@
-package club.bugmakers.bruce.neteasejava.boyneteasejava;
+package club.bugmakers.boyneteasejava;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
