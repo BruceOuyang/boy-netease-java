@@ -13,6 +13,6 @@ public class Demo1 {
         int y = 100;
         int a = x / y;
         int b = 50;
-        System.out.println("a + b = " + (a + b));
+        System.out.println(a + b);
     }
 }
